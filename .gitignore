@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# tool outputs (transcripts/frames are private content, never committed)
+*/transcript.md
+*/segments.json
+*/frames/
