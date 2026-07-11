@@ -88,6 +88,10 @@ reads `transcript.md`, picks the timestamps, runs `frames`, and assembles the
 final note — with each image placed exactly where the text needs it, and a
 timestamp link for everything else.
 
+A ready-made skill implementing this workflow lives at
+[rishi222k/agent-skills](https://github.com/rishi222k/agent-skills)
+(`yt-transcribe`).
+
 ## Notes & limitations
 
 - **Content stays yours.** The tool is open source; the transcripts and
